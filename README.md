@@ -1,8 +1,8 @@
 profile
 <h1 align ="center">hi 👋 I am sourabh mehra</h1>
 
-**Hey everyone my neme sourabh mehra 
-I am a student for a cse branch
+**Hey everyone my neme is sourabh mehra 
+I am a student for thise cse branch
 and running my b tech graduation from RGPV university
 I am from bhopal**
 
